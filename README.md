@@ -81,6 +81,15 @@ src/
 └── index.css        # Global styles
 ```
 
+## 🔮 Future Roadmap
+*   **Payment Gateway Integration**: Secure payment processing with Stripe/Razorpay.
+*   **Mobile Application**: Native mobile app using React Native.
+*   **Notifications**: Push notifications for order updates.
+*   **Restaurant Dashboard**: Separate portal for restaurants to manage menus.
+
+## 📄 License
+Distributed under the MIT License. See `LICENSE` for more information.
+
 ## 🤝 Contributing
 
 1.  Fork the Project
