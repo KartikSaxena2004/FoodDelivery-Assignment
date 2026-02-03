@@ -2,6 +2,9 @@
 
 A comprehensive React-based web application for managing food delivery orders, featuring role-based authentication, real-time order tracking, and an admin dashboard for delivery management.
 
+## 💡 Project Overview & Recent Updates
+This project has been recently updated to include a robust role-based authentication system, distinguishing between Admin and Customer views. We've implemented a dynamic Admin Dashboard capable of filtering orders by payment status and delivery distance for efficient logistics management. The UI has been revamped with a modern Glassmorphism aesthetic, ensuring a premium user experience across all devices. Key logic improvements include automated delivery assignment based on proximity and real-time order status updates. Overall, this application serves as a scalable foundation for a real-world food delivery service with comprehensive order tracking capabilities.
+
 ## 🚀 Features
 
 ### 👤 User Features
